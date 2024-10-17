@@ -1,0 +1,1 @@
+This is a simple alias to clone linux HDD drives, useful for networks where all pcs are hardware equalized and running the same OS as it enables you to use a machine of your choice as a standard and then clone its content on other HDD.
